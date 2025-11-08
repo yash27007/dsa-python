@@ -1,4 +1,10 @@
 """
+This file contains the patterns problems solutions
+Resource Link : https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/ */
+
+"""
+
+"""
 Pattern 1
 * * * * * 
 * * * * * 
@@ -200,5 +206,4 @@ def pattern10(n:int)->None:
             print("*",end=" ")
         print()
         
-pattern10(5)
-    
+# pattern10(5)
